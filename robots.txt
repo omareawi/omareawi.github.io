@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omareawi.github.io/WSt/sitemap_index.txt
+Sitemap: https://omareawi.github.io/WSx/sitemap_index.txt
+Sitemap: https://omareawi.github.io/gIK/sitemap_index.txt
+Sitemap: https://omareawi.github.io/oRC/sitemap_index.txt
